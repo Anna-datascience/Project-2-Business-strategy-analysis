@@ -1,1 +1,1 @@
-# Project-2-Eniac-Business-Stragegy
+# Project-2-Eniac-Business-Strategy
