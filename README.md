@@ -37,7 +37,7 @@ We as a team of four Data scientists were given following concrete tasks to inve
 * We were able to provide final conclusion whether , when and at what percentage should Eniac provide discounts  over the year to achieve their sales goal.
 
 
-## Attachments:
+## Reports:
 Business strategy analysis.pdf
 
 
